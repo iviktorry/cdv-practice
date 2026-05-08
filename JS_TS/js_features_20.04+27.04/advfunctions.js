@@ -1,5 +1,3 @@
-// console.log("abc");
-
 // function someFun(){
 //     someFun.counter++;
 //     console.log("abccc")
@@ -35,7 +33,7 @@
 // console.log(square(9));
 // console.log(square.cache);
 
-//function redefinition 
+// // function redefinition 
 // function saySomething (){
 //     console.log("welcome to cdv");
 //     saySomething = function (){
@@ -50,7 +48,7 @@
 
 
 
-//// IIFE -  immediately invoked functions 
+// // IIFE -  immediately invoked functions 
 
 // (() => {
 //     let  aa =2;
@@ -112,12 +110,12 @@
 
 //tasks on the lesson
 
-function formatCurrency(symb){
-    function formatSymbol(num){
-        return `${symb} ${num}`;
-    }
-    // return `${symb}`
-}
-const dollar = formatCurrency('$');
-console.log(dollar(3));
-console.log(dollar(3));
+// function formatCurrency(symb){
+//     function formatSymbol(num){
+//         return `${symb} ${num}`;
+//     }
+//     // return `${symb}`
+// }
+// const dollar = formatCurrency('$');
+// console.log(dollar(3));
+// console.log(dollar(3));
