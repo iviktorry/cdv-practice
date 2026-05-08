@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+}
+
+.redcol {
+    color: red;
+}
+
+.greencol {
+    color: green;
+}
+
+.small {
+    font-size: 16px;
+    transition: font-size 0.3s ease-in-out;
+}
+
+.big {
+    font-size: 40px;
+    transition: font-size 0.3s ease-in-out;
+}

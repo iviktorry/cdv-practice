@@ -1,0 +1,19 @@
+{
+  "name": "my_pr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "type": "module",
+  "scripts": {
+    "compile": "tsc",
+    "serve": "lite-server",
+    "watch": "concurrently \"npm tsc -w\" \"lite-server\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^6.0.2"
+  }
+}
