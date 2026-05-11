@@ -82,9 +82,9 @@
 //     return prev + curr;
 // }, 0);
 
-const someNos = [2, 3, 4, 5, 6];
-const totalOfDoubleEvenNos = someNos
-    .filter((value) => value%2==0)
-    .map((value) => value*2)
-    .reduce((prev, curr) => prev+curr, 0);
-console.log(totalOfDoubleEvenNos);
+// const someNos = [2, 3, 4, 5, 6];
+// const totalOfDoubleEvenNos = someNos
+//     .filter((value) => value%2==0)
+//     .map((value) => value*2)
+//     .reduce((prev, curr) => prev+curr, 0);
+// console.log(totalOfDoubleEvenNos);

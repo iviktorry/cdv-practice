@@ -106,16 +106,3 @@
 // setTimeout(() => {
 //     console.log("aaaaaaaaa");
 // } ,5000);
-
-
-//tasks on the lesson
-
-// function formatCurrency(symb){
-//     function formatSymbol(num){
-//         return `${symb} ${num}`;
-//     }
-//     // return `${symb}`
-// }
-// const dollar = formatCurrency('$');
-// console.log(dollar(3));
-// console.log(dollar(3));
